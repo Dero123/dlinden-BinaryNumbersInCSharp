@@ -214,15 +214,15 @@ Answer the following question in your copy of the `README.md` file.
 
 Which of the following are integers:
 
-   * "hello" | ADD ANSWER HERE
-   * 17.5 | ADD ANSWER HERE
-   * 60009
-   * 22333
-   * -33.5f
-   * 'c'
-   * 0x5723
-   * 0b10101010
-   * -42
+   * "hello" | no
+   * 17.5 | | no
+   * 60009 | yes
+   * 22333 | yes
+   * -33.5f | no
+   * 'c' | no
+   * 0x5723 | yes
+   * 0b10101010 | yes
+   * -42 | yes
 
 
 ## Negative Integers
